@@ -1,6 +1,6 @@
 # Kotlin语言文档翻译项目
 
-##Kotlin官方网站中文翻译项目
+## Kotlin官方网站中文翻译项目
 中文版官网：http://kotlinlang.cn/  
 项目主页：https://github.com/cctanfujun/kotlin-web-site-cn  
 
@@ -9,25 +9,25 @@ Kotlin是一门基于jvm的新语言，可以用来开发Android应用，其优�
  **高交互性** ：Kotlin和其它java库协调使用的特别好，并且交互操作很简单。这是Kotlin团队 在开发新语言是的主要理念之一。他们想在使用Kotlin开发时并不用重写之前所有用java写的代码，所以，Kotlin和java交互的能力必须非常高。  
  **与AS和Gradle完美结合** ：我们有一个IDE的插件和另一个属于Grade的插件，因此，用Kotlin进行 android编程并不困难。
 
-##相关链接
+## 相关链接
 Kotlin开发环境配置http://blog.kymjs.com/code/2015/07/22/01/  
 一个Kotlin开发的简单Android登录功能http://blog.kymjs.com/code/2015/08/03/01/  
 kotlin开发的Android应用https://github.com/kymjs/CodeCafe  
 本项目的英语原本https://github.com/kymjs/KotlinDoc-cn/blob/master/kotlin-docs.pdf   
 
-##翻译进度
-####第一章（准备开始）：
+## 翻译进度
+#### 第一章（准备开始）：
 >[基础语法](https://github.com/kymjs/KotlinDoc-cn/blob/master/unit1/GettingStarted.md)    
 >[常用语法](https://github.com/kymjs/KotlinDoc-cn/blob/master/unit1/Idioms.md)  
 >[编码风格](https://github.com/kymjs/KotlinDoc-cn/blob/master/unit1/CodingConventions.md)  
 
-####第二章（基础）：  
+#### 第二章（基础）：  
 >[基础数据类型](https://github.com/kymjs/KotlinDoc-cn/blob/master/unit2/BasicsType.md)   
 >[包](https://github.com/kymjs/KotlinDoc-cn/blob/master/unit2/Packages.md)   
 >[控制流](https://github.com/kymjs/KotlinDoc-cn/blob/master/unit2/ControlFlow.md)    
 >[返回与跳转](https://github.com/kymjs/KotlinDoc-cn/blob/master/unit2/ReturnsJumps.md)   
 
-####第三章（类与对象）：  
+#### 第三章（类与对象）：  
 >[类与继承](https://github.com/kymjs/KotlinDoc-cn/blob/master/unit3/ClassesInheritance.md)   
 >[属性与字段](https://github.com/kymjs/KotlinDoc-cn/blob/master/unit3/PropertiesFields.md)     
 >[接口](https://github.com/kymjs/KotlinDoc-cn/blob/master/unit3/Interfaces.md)     
@@ -41,6 +41,6 @@ kotlin开发的Android应用https://github.com/kymjs/CodeCafe
 >[代理](https://github.com/kymjs/KotlinDoc-cn/blob/master/unit3/Delegation.md)     
 >[属性代理](https://github.com/kymjs/KotlinDoc-cn/blob/master/unit3/DelegatedProperties.md)     
 
-####第四章(函数与lambda表达式)
+#### 第四章(函数与lambda表达式)
 
 
